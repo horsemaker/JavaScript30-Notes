@@ -47,7 +47,7 @@ rotate(a)
 - The `transform-origin` property may be specified using one, two, or three values, where each value represents an offset.
 - Syntax :
 
-    <img src="images/transform-origin.png" width="40%">
+    <img src="images/transform-origin.png" width="50%">
 
 
 ## Transition-timing-function
@@ -55,7 +55,7 @@ rotate(a)
 
 - Syntax :
 
-    <img src="images/transform-timing-function.png" width="40%">
+    <img src="images/transform-timing-function.png" width="50%">
 
 
 ## Know more
