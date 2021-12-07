@@ -37,8 +37,9 @@ htmlMediaElement.currentTime = 35;
 - The `addEventListener()` method of the window interface sets up a function that will be called whenever the specified event is delivered to the target.
 
 ## Keydown event 
-- The `keydown` event is fired when a key is pressed.<br></br>
-<img src="images/keydown.png" width="60%"/>
+- The `keydown` event is fired when a key is pressed.
+
+    <img src="images/keydown.png" width="60%"/>
 
 ## Attribute selector in js `.key[data-key="${e.keyCode}"]`
 - These selectors enable the selection of an element based on the presence of an attribute alone (for example href), or on various different matches against the value of the attribute.
