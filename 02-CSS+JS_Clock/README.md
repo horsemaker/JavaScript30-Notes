@@ -55,7 +55,7 @@ rotate(a)
 
 - Syntax :
 
-    <img src="images/transform-timing-function.png" width="50%">
+    <img src="images/transform-timing-function.png" width="70%">
 
 
 ## Know more
