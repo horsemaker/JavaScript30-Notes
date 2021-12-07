@@ -3,7 +3,7 @@
 ## keycode.info : https://keycode.info/
 
 
-## data-key:
+## data-key
 - HTML5 is designed with extensibility in mind for data that should be associated with a particular element but need not have any defined meaning. 
 - data-* attributes allow us to store extra information on standard, semantic HTML elements without other hacks such as non-standard attributes, or extra properties on DOM.
 
@@ -23,12 +23,12 @@ var currentTime = htmlMediaElement.currentTime;
 htmlMediaElement.currentTime = 35;
 ```
 
-### Value:
+### Value
 - A double-precision floating-point value indicating the current playback time in seconds.
 - If the media is not yet playing, the value of currentTime indicates the time position within the media at which playback will begin once the **play ()** method is called.
 - Setting currentTime to a new value seeks the media to the given time, if the media is available.
 
-## Kbd:
+## kbd
 - The `<kbd>` tag is used to define keyboard input.
 - The content inside is displayed in the browser's default monospace font.
 
@@ -38,12 +38,12 @@ htmlMediaElement.currentTime = 35;
 
 ## Keydown event 
 - The `keydown` event is fired when a key is pressed.<br></br>
-<img src="images/keydown.png" width="40%"/>
+<img src="images/keydown.png" width="60%"/>
 
 ## Attribute selector in js `.key[data-key="${e.keyCode}"]`
 - These selectors enable the selection of an element based on the presence of an attribute alone (for example href), or on various different matches against the value of the attribute.
 
-    <img src="images/atb-selector.png" width="40%">
+    <img src="images/atb-selector.png" width="60%">
 
 
 ## .classList.add() and .classList.remove()
@@ -70,7 +70,7 @@ where parameter is a string representing the token you want to remove from the l
 
 # Css:
 
-## Transition:
+## Transition
 - `CSS transitions` provide a way to control animation speed when changing CSS properties
 - Instead of having property changes take effect immediately, you can cause the changes in a property to take place over a period of time. 
 > For example, if you change the color of an element from white to black, usually the change is instantaneous. With CSS transitions enabled, changes occur at time intervals that follow an acceleration curve, all of which can be customized.
