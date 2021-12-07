@@ -21,6 +21,7 @@ Changing the value of currentTime seeks the media to the new time.
 
 var currentTime = htmlMediaElement.currentTime;
 htmlMediaElement.currentTime = 35;
+
 Value:
 A double-precision floating-point value indicating the current playback time in seconds.
 If the media is not yet playing, the value of currentTime indicates the time position within the media at which playback will begin once the play() method is called.
