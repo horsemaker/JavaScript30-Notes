@@ -36,7 +36,7 @@ console.table(data, columns);
 
 - Example:
 
-    <img src="images/map.png" width="40%"></img>
+    <img src="images/map.png" width="30%"></img>
 
 
 
@@ -61,11 +61,11 @@ console.table(data, columns);
 
 - Syntax:
 
-    <img src="images/reduce-syntax.png" width="60%"></img>
+    <img src="images/reduce-syntax.png" width="70%"></img>
 
 - Example
 
-    <img src="images/reduce.png" width="60%"></img>
+    <img src="images/reduce.png" width="70%"></img>
 
 
 ## Know more 
