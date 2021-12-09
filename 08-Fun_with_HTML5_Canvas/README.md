@@ -77,9 +77,11 @@ Strokes are aligned to the center of a path; in other words, half of the stroke 
 ## Mousedown
 - The **`mousedown event`** is fired at an Element when a pointing device button is pressed while the pointer is inside the element.
 
+
 ## Mouseup
 - The **`mouseup event`** is fired at an Element when a button on a pointing device (such as a mouse or trackpad) is released while the pointer is located inside it.
 - mouseup events are the counterpoint to mousedown events.
+
 
 ## Mouseout
 - The **`mouseout event`** is fired at an Element when a pointing device (usually a mouse) is used to move the cursor so that it is no longer contained within the element or one of its children.
@@ -87,6 +89,7 @@ mouseout is also delivered to an element if the cursor enters a child element, b
 
 ## hsl
 - The **`hsl()`** functional notation expresses a given color according to its hue, saturation, and lightness components. An optional alpha component represents the color's transparency.
+
 
 ## globalCompositeOperation
 - The **`CanvasRenderingContext2D.globalCompositeOperation`** property of the Canvas 2D API sets the type of compositing operation to apply when drawing new shapes.
