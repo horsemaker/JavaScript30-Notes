@@ -1,4 +1,4 @@
-# 09 - Dev Tools Domination
+# 09 - Must Know Dev Tools Tricks
 
 ## Regular
 - For general output of logging information. You may use string substitution and additional arguments with this method.
