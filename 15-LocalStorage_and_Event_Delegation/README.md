@@ -1,6 +1,7 @@
 # 15 - Local Storage and Event Delegation
 ## Submit event
-- The **`submit event`** fires when a <form> is submitted.
+- The **`submit event`** fires when a `<form>` is submitted.
+- The submit event fires when the user clicks a submit button (`<button>` or `<input type="submit">`) or presses Enter while editing a field (e.g. `<input type="text">`) in a form. The event is not sent to the form when calling the `form.submit()` method directly.
 
 ## .preventDefault()
 - The **`preventDefault()`** method of the Event interface tells the user agent that if the event does not get explicitly handled, its default action should not be taken as it normally would be.
