@@ -1,7 +1,7 @@
 # JavaScript30-Notes
 
 
-|                    |JS 30 Course Notes |                    |
+<!-- |                    |JS 30 Course Notes |                    | -->
 | :---               |:---         |          :---       |
 | [01-JavaScript_DrumKit](/01-JavaScript_DrumKit/README.md)          |  [11-Custom_HTML5_Video_Player](/11-Custom_HTML5_Video_Player/README.md)       |    [21-Geolocation_based_Speedometer_and_Compass](/21-Geolocation_based_Speedometer_and_Compass/README.md)       |
 | [02-CSS+JS_Clock](/02-CSS+JS_Clock/README.md)          |  [12-Key_Sequence_Detection_(KONAMI-CODE)](/12-Key_Sequence_Detection_(KONAMI-CODE)/README.md)       |    [22-Follow_along_Links](/22-Follow_along_Links/README.md)       |
