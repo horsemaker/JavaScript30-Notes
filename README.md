@@ -1,5 +1,7 @@
 # JavaScript30-Notes
 
+A free 30 days course created by 
+
 
 |                    | JS 30 Course Notes |                    |
 | :---               |:---         |          :---       |
