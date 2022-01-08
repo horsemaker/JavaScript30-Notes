@@ -1,5 +1,9 @@
 # JavaScript30-Notes
 
+All the concepts taught in a free 30 days course created by Wes Bos, Full Stack Developer named [JavaScript 30](https://javascript30.com/)
+
+This course is for Beginner to Intermediate developers and designers who want to become comfortable with both JavaScript fundamentals and working in the DOM without a library.
+
 
 |                    | JS 30 Course Notes |                    |
 | :---               |:---         |          :---       |
